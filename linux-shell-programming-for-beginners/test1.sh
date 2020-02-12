@@ -1,2 +1,8 @@
+#!/usr/bin/env bash
+
+# Calculate the sum of two numbers
+
 x=6
-echo the number is $x
+y=9
+total=$(( $x + $y ))
+echo the number is $total

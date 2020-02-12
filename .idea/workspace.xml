@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4516daa0-48b8-4946-a839-5f5082834d92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bash-scripting/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linux-shell-programming-for-beginners/test2.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex1.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex2.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex3.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex3.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex4.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex4.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex5.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex5.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex6.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex6.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex7.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex7.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/Ex8.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/Ex8.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/test-data/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/test-data/info.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 2/test-data/info2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bash-scripting/test-data/info2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux-shell-programming-for-beginners/test1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/linux-shell-programming-for-beginners/test1.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +85,7 @@
       <workItem from="1576623184633" duration="1648000" />
       <workItem from="1576624837227" duration="7000" />
       <workItem from="1576624860575" duration="1973000" />
+      <workItem from="1581548479540" duration="1210000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1547159051758</created>
