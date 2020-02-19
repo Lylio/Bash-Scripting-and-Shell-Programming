@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4516daa0-48b8-4946-a839-5f5082834d92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Experiments/mysql_login.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,7 @@
       <workItem from="1576624860575" duration="1973000" />
       <workItem from="1581548479540" duration="1210000" />
       <workItem from="1581667040759" duration="183000" />
-      <workItem from="1581872663946" duration="3873000" />
+      <workItem from="1581872663946" duration="5068000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1547159051758</created>
