@@ -1,0 +1,10 @@
+Don't want to capture this line
+Don't want to capture this line
+Don't want to capture this line
+Don't want to capture this line
+Don't want to capture this line
+Don't want to capture this line
+I DO WANT THIS LINE AND THE FOLLOWING LINES THOUGH!
+Test successful!
+Well done.
+Now write a script to remove this.
