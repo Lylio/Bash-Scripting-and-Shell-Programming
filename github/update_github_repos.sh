@@ -10,7 +10,7 @@ read -p "Please enter ticket/branch name: " branch_name
 rm -rf ~/scratch
 
 #Clone repo
-git clone git@github.com:Lylio/${repo_name}.git ~/scratch/${repo_name}
+git clone git@github.com:$username:$password/${repo_name}.git ~/scratch/${repo_name}
 
 #Capture message and append to README.md
 message=$(tail -n +7 test_successful.txt)

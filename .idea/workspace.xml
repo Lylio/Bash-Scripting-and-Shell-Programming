@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4516daa0-48b8-4946-a839-5f5082834d92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github/test_successful.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/mysql_login.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github/update_github_repos.sh" beforeDir="false" afterPath="$PROJECT_DIR$/github/update_github_repos.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +100,7 @@
       <workItem from="1582974246110" duration="5216000" />
       <workItem from="1583024597155" duration="4164000" />
       <workItem from="1583476401666" duration="6212000" />
+      <workItem from="1583963069147" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1547159051758</created>
