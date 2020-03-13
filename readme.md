@@ -1,9 +1,9 @@
-# Bash Scripting and Shell Programming
+# Shell Workbench
 ![Bash](img/bash-logo.png)
 <br>
 <br>
 
-A variety of tutorials and exercises in Bash scripting and shell programming from:
+A variety of shell/bash scripts to assist with API tasks, data manipulation and improve learning:
 
 https://www.udemy.com/course/linux-shell-programming-for-beginners/
 
