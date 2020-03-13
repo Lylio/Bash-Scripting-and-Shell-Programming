@@ -3,7 +3,7 @@
 <br>
 <br>
 
-A variety of shell/bash scripts to assist with API tasks, data manipulation and improve learning:
+A variety of shell/bash scripts to assist with API tasks, data manipulation and improve understanding of shell programming.
 
 https://www.udemy.com/course/linux-shell-programming-for-beginners/
 
