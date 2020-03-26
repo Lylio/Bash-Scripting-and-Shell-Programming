@@ -1,5 +1,5 @@
 # Shell Workbench
-![Bash](img/bash-logo.png)
+![Shell Workbench](img/shell-workbench-logo.png)
 <br>
 <br>
 
