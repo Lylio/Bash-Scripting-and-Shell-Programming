@@ -5,7 +5,8 @@ branch_name=$2
 
 read -p "Please enter username: " username
 read -s -p "Please enter password: " password
-if [[ $# -eq null ]]; then
+echo
+if [[ $# -eq null  ||  $# -eq 1 ]]; then
     read -p "Please enter repo name: " repo_name
     read -p "Please enter ticket/branch name: " branch_name
 fi
