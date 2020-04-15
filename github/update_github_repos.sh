@@ -5,8 +5,11 @@ branch_name=$2
 
 read -p "Please enter username: " username
 read -s -p "Please enter password: " password
-read -p "Please enter repo name: " repo_name
-read -p "Please enter ticket/branch name: " branch_name
+if [[ $# -eq null ]]; then
+    read -p "Please enter repo name: " repo_name
+    read -p "Please enter ticket/branch name: " branch_name
+fi
+
 rm -rf ~/scratch
 
 #Clone repo
