@@ -11,6 +11,8 @@ if [ -z "$OPENSHIFTS" ]; then
     OPENSHIFTS="https://master.openshift.local:8443"
 fi
 
+oc login $OPENSHIFTS --username=$USER --password=$PWD
+
 IPs=`oc describe pod | grep IP | awk '{ print $2 }'`
 
 for ip in $IPs; do
