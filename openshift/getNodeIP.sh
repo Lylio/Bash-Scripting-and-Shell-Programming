@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # A script to print the container IP addresses of an OpenShift project
+# Run with 'bash getNodeIP.sh' to avoid -s flag errors
 
 OPENSHIFTS="$*"
 
