@@ -1,8 +1,7 @@
 # Shell Workbench
-![Shell Workbench](img/shell-workbench-logo.png)
+![Shell Workbench](img/logo.png)
 <br>
 <br>
-
 A variety of shell/bash scripts to assist with API tasks, data manipulation and improve understanding of shell programming.
 
 https://www.udemy.com/course/linux-shell-programming-for-beginners/
